@@ -1,3 +1,3 @@
-A repository for project files for the eltux.net domain .  
+A repository for project files for the eltux.net domain .
 
-License Apache v2
+License BSD
